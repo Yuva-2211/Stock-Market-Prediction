@@ -11,7 +11,7 @@ This project is a **Stock Price Predictor** built using **LSTM (Long Short-Term 
 - 🔍 Interactive input to search any stock ticker
 - 🤖 Predicts future prices using LSTM deep learning model
 - 📉 Compares actual vs predicted stock prices
-- 📈 Displays evaluation metrics: MSE, RMSE, MAE, R²
+- 📈 Displays evaluation metrics: MSE
 - 🖥️ Streamlit app with interactive charts and results
 
 ---
@@ -111,4 +111,5 @@ scikit-learn
 ## 📬 Contact
 
 Built with ❤️ by D. Yuva Shankar Narayana & Pavithra.H  
-[LinkedIn(Pavithra H )](#https://www.linkedin.com/in/pavithra-h-048a8b321/) | [LinkedIn(Yuva Shankar Narayana )](https://www.linkedin.com/in/yuva-shankar-narayana-16b09a314) | [GitHub (Pavithra H)](#https://github.com/Pavithra-1685) | [GitHub (Yuva Shankar Narayana)](#https://github.com/Yuva-2211)
+[LinkedIn(Pavithra H )](#https://www.linkedin.com/in/pavithra-h-048a8b321/) | 
+[LinkedIn(Yuva Shankar Narayana )](https://www.linkedin.com/in/yuva-shankar-narayana-16b09a314) |
