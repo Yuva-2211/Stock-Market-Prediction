@@ -111,5 +111,5 @@ scikit-learn
 ## 📬 Contact
 
 Built with ❤️ by D. Yuva Shankar Narayana & Pavithra.H  
-[LinkedIn(Pavithra H )](#https://www.linkedin.com/in/pavithra-h-048a8b321/) | 
 [LinkedIn(Yuva Shankar Narayana )](https://www.linkedin.com/in/yuva-shankar-narayana-16b09a314) |
+[LinkedIn(Pavithra H )](https://www.linkedin.com/in/pavithra-h-048a8b321/)
